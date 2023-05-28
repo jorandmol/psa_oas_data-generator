@@ -1,0 +1,60 @@
+[
+  {
+    "id": 7788,
+    "name": "Fluffy",
+    "category": {
+      "id": 3,
+      "name": "Rabbits"
+    },
+    "photoUrls": [
+      "https://example.com/fluffy1.jpg",
+      "https://example.com/fluffy2.jpg",
+      "https://example.com/fluffy3.jpg"
+    ],
+    "tags": [
+      {
+        "id": 223,
+        "name": "cute"
+      },
+      {
+        "id": 876,
+        "name": "adorable"
+      }
+    ],
+    "status": "available"
+  },
+  {
+    "id": 6655,
+    "name": "Toby",
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "photoUrls": [
+      "https://example.com/toby1.jpg",
+      "https://example.com/toby2.jpg"
+    ],
+    "tags": [
+      {
+        "id": 422,
+        "name": "friendly"
+      }
+    ],
+    "status": "pending"
+  },
+  {
+    "id": 9900,
+    "name": "Mittens",
+    "category": {
+      "id": 2,
+      "name": "Cats"
+    },
+    "photoUrls": [
+      "https://example.com/mittens1.jpg",
+      "https://example.com/mittens2.jpg",
+      "https://example.com/mittens3.jpg"
+    ],
+    "tags": [],
+    "status": "sold"
+  }
+]

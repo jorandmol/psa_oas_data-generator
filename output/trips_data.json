@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Hiking adventure",
+    "description": "Explore the beautiful mountains and see amazing views",
+    "requirements": "Good physical condition",
+    "startDate": "2022-08-15",
+    "endDate": "2022-08-19"
+  },
+  {
+    "title": "Beach getaway",
+    "description": "Relax in the sun and enjoy the clear blue water",
+    "requirements": "None",
+    "startDate": "2022-09-02",
+    "endDate": "2022-09-07"
+  },
+  {
+    "title": "Cultural immersion",
+    "description": "Experience the local traditions and customs",
+    "requirements": "Open mind and interest in new cultures",
+    "startDate": "2022-10-20",
+    "endDate": "2022-10-30"
+  }
+]

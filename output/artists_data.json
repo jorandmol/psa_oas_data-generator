@@ -1,0 +1,32 @@
+[
+  {
+    "artist_name": "Adele",
+    "artist_genre": "Pop",
+    "albums_recorded": 6,
+    "username": "adele"
+  },
+  {
+    "artist_name": "Ed Sheeran",
+    "artist_genre": "Pop",
+    "albums_recorded": 4,
+    "username": "edsheeran"
+  },
+  {
+    "artist_name": "Beyoncé",
+    "artist_genre": "Pop",
+    "albums_recorded": 6,
+    "username": "beyonce"
+  },
+  {
+    "artist_name": "Taylor Swift",
+    "artist_genre": "Pop",
+    "albums_recorded": 8,
+    "username": "taylorswift"
+  },
+  {
+    "artist_name": "Drake",
+    "artist_genre": "Hip Hop",
+    "albums_recorded": 9,
+    "username": "drake"
+  }
+]
